@@ -1,4 +1,4 @@
-package poj.easy;
+package math.easy;
 
 public class P1000 {
 	public static void main(String[] args) {

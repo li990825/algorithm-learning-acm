@@ -5,7 +5,7 @@
  * 假设有n张卡片，自上而下排序，则每张卡片悬空的部分分别为第1张1/2，第2张是1/3，依次类推，第n张是1/n+1，
  * 1/2 + 1/3 + ... + 1/n+1 > 输入数字
  */
-package poj.easy;
+package math.easy;
 
 import java.util.ArrayList;
 import java.util.List;
